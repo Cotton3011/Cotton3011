@@ -9,6 +9,8 @@ C# / Unity engineer
 - ゲーム開発
 
 ## Current Focus
+- Unity systems and game development tooling
+- IBKR API-based trading tools
+- SBI stock trading support tools
+- Python automation scripts
 - Hotel555 room watcher
-- Unity systems
-- automation scripts
