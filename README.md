@@ -1,16 +1,17 @@
 # Cotton3011
 
-C# / Unity engineer
+C# / Engineer
 
 ## About
 - Unity / C# 開発
-- Python ツール開発
-- 自動化・監視ツール
+- ASP.NET Core Web API
+- Python 自動化ツール
 - ゲーム開発
+- 株式取引支援ツール
 
 ## Current Focus
-- Unity systems and game development tooling
-- IBKR API-based trading tools
-- SBI stock trading support tools
-- Python automation scripts
-- Hotel555 room watcher
+- ASP.NET Core Backend Development
+- Docker / Azure Learning
+- Unity Systems Programming
+- UE5 Horror Game Development
+- IBKR & SBI Trading Tools
